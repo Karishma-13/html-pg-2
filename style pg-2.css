@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.container{
+    display: flex;
+}
+
+
+.div-1 h2{
+    text-align: center;
+    padding-top: 30px;
+    margin: 130px 50px 10px 50px;
+}
+
+.div-1 p{
+    text-align: center;
+    margin: 50px 100px 100px 100px;
+}
+
+.vertical{
+    height: 700px;
+    border-left: 3px solid #19a319;
+    margin-right: 210px;
+}
+
+.div-2 img{
+    padding: 50px 50px 30px 30px;
+    height: 500px; 
+}
